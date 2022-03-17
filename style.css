@@ -106,9 +106,7 @@ select:focus{
     height: 100%;
 }
 @media (max-width: 450px) {
-    .end-game-container{
-        min-width: -webkit-fill-available;
-    }
+    
     .container{
         width: 90%;
 
