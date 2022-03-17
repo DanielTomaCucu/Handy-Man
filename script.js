@@ -61,6 +61,7 @@ function gameOver(){
       <button onclick= 'location.reload()'> Reload</button>
     `;
     endgameEl.style.display="flex";
+    endgameEl.style.minWidth="-webkit-fill-available";
     endgameEl.classList.add('container');
 }
 
