@@ -9,7 +9,7 @@ const settingsForm = document.getElementById('settings-form');
 const difficultySelect = document.getElementById('difficulty');
 
 //array with words
-const words = ['sigh','tense','airplane','ball', 'pies','juise', 'war','warlike','bad','north', 'dependent','stret','silver','high','superficial','quince','eight','feeble','admit','drag','loving','stretch','plants','sites','settings','time', 'game','score','button', 'Math','computer','phone','difficulty','storage','words'];
+const words = ['sigh','tense','airplane','ball', 'pies','juise', 'war','warlike','bad','north', 'dependent','street','silver','high','superficial','quince','eight','feeble','admit','drag','loving','stretch','plants','sites','settings','time', 'game','score','button', 'Math','computer','phone','difficulty','storage','words'];
 
 
 //init word
